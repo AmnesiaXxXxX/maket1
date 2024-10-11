@@ -1,0 +1,93 @@
+.right {
+    border: 2px black;
+    margin-right: 40px;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    width: 750px;
+    height: 1319px;
+}
+
+.right * {
+    position: relative;
+    right: -87.8px;
+
+}
+
+.profession {
+    bottom: -92.2px;
+    font-size: 14px;
+    font-weight: 560;
+}
+
+
+
+.name {
+    bottom: -87.5px;    
+    font-size: 45px;
+}
+
+.description {
+    font-size: 14px;
+    bottom: -81px;  
+    color: #595959;
+    width: 400px;  
+    line-height: 24px;
+}
+
+.project__list {
+    bottom: -105px;  
+    right: 0.3px;
+    margin-bottom: 150px;
+}
+.project__list a {
+    right: -9px;
+    color: black;
+    font-family: 'Montserrat';
+}
+.project__list h2 {
+    font-weight: 700;
+    margin-bottom: 11.4px;
+
+}
+.projects__list__item {
+    line-height: 24px;
+    /* Убедитесь, что свойство 'right' необходимо. Если нет, удалите его */
+    color: #595959;
+    list-style: decimal;
+    font-size: 14px;
+    margin-right: 10px;
+    /* Дополнительно можно добавить отступ слева для списка */
+}
+
+.projects__list__item::marker {
+    font-weight: bold;
+}
+
+.work__name {
+    margin-top: 158px;
+    font-size: 22px;
+    font-weight: 700;
+}
+
+.job__name {
+    margin-top: 17px;
+    font-size: 16px;
+    font-weight: 600;
+    line-height: auto;
+}
+
+#freelance {
+    margin-left: -82.7px;
+    font-weight: 610;
+    color: #FB6D3A
+}
+
+.date__holder {
+    margin-top: 15px;
+    font-size: 12px;
+}
+
+.li {
+    padding: 0px;
+    margin: 0px;
+}   

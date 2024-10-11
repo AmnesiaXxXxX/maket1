@@ -1,0 +1,15 @@
+.App {
+    width: 1280px;
+    height: 1399px;
+    font-family: 'Montserrat';
+    display: flex;
+    flex-direction: row;
+  }
+  
+a {
+  text-decoration:none;
+  color: black
+
+}
+
+

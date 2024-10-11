@@ -1,0 +1,20 @@
+/* Reset styles */
+article,
+aside,
+footer,
+header,
+nav,
+section {
+  display: block;
+}
+
+ol,
+ul {
+  list-style: none;
+}
+
+body {
+  font-size: 100%;
+  line-height: 1;
+}
+
